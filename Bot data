@@ -42,3 +42,10 @@ on *:TEXT:hello!:#: { msg $chan Hi $nick to Quantom chat! }
 on *:TEXT:hello:#: { msg $chan Hi $nick to Quantom chat! }
 on *:TEXT:aloha!:#: { msg $chan Aloha $nick to Quantom chat! }
 on *:TEXT:aloha:#: { msg $chan Aloha $nick to Quantom chat! }
+on *:TEXT:i need help:#: { msg $chan What Do You Need Help With $nick }
+on *:TEXT:can i be op:#: { msg $chan No! $nick }
+on *:TEXT:i cant join the server:#: { msg $chan Syriamanal $nick Need Help To Join The Server!  }
+on *:TEXT:who is online:#: { msg $chan I Am! $nick }
+on *:TEXT:can i be op:#: { msg $chan No! $nick }
+on *:TEXT:i hate you:#: { msg $chan OK! I Dont Have Feelings! $nick }
+on *:TEXT:why was i kicked:#: { msg $chan I Did It OK!o! $nick }
