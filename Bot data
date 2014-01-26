@@ -1,0 +1,44 @@
+on *:TEXT:hi:#: { msg $chan Hi $nick to Quantom chat! }
+on *:TEXT:help:#: { msg TrilogiForce $nick needs help! }
+on *:TEXT:fuck you:#: { msg $chan $nick Dont say bad words or i kick you! }
+on *:TEXT:spam:#: { msg $chan Spam?!!?! where! }
+on *:TEXT:fuck:#: { msg $chan $nick Dont say bad words or i kick you! }
+on *:TEXT:shit:#: { msg $chan $nick Dont say bad words or i kick you! }
+on *:TEXT:asshole:#: { msg $chan $nick Dont say bad words or i kick you! }
+on *:TEXT:bitch:#: { msg $chan $nick Dont say bad words or i kick you! }
+on *:TEXT:Quantombot:#: { msg $chan What $nick ? }
+on *:TEXT:TrilogiForce:#: { msg $chan $nick TrilogiForce is not avaible, I think? }
+on *:TEXT:TrilogiForce:#: { msg $chan he would answer back in some minutes }
+on *:TEXT:What does the fox say?:#: { msg $chan Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding Ding   }
+on *:TEXT:Syriamanal:#: { msg Syriamanal $nick needs you! }
+on *:TEXT:Syriamanal?:#: { msg Syriamanal $nick needs you! }
+on *:TEXT:syriamanal:#: { msg Syriamanal $nick needs you! }
+on *:TEXT:syriamanal?:#: { msg Syriamanal $nick needs you! }
+on *:TEXT:help:#: { msg Syriamanal $nick needs you! }
+on *:TEXT:How are you?:#: { msg $chan Im Good and you $nick ? }
+on *:TEXT:How are you:#: { msg $chan Im Good and you $nick ? }
+on *:TEXT:how are you?:#: { msg $chan Im Good and you $nick ? }
+on *:TEXT:how are you:#: { msg $chan Im Good and you $nick ? }
+on *:TEXT:how r u?:#: { msg $chan Im Good and you $nick ? }
+on *:TEXT:how r u:#: { msg $chan Im Good and you $nick ? }
+on *:TEXT:como estas?:#: { msg $chan yo Bien y tu $nick ? }
+on *:TEXT:good:#: { msg $chan ok $nick }
+on *:TEXT:good!:#: { msg $chan ok $nick }
+on *:TEXT:good too:#: { msg $chan ok $nick }
+on *:TEXT:good too!:#: { msg $chan ok $nick }
+on *:TEXT:bad:#: { msg $chan why? that would be bad $nick }
+on *:TEXT:bad!:#: { msg $chan why? that would be bad $nick }
+on *:TEXT:so bad:#: { msg $chan why? that would be bad $nick }
+on *:TEXT:so bad!:#: { msg $chan why? that would be bad $nick }
+on *:TEXT:sad:#: { msg $chan why? that would be sad $nick }
+on *:TEXT:sad!:#: { msg $chan why? that would be sad $nick }
+on *:TEXT:so sad:#: { msg $chan why? that would be sad $nick }
+on *:TEXT:so sad!:#: { msg $chan why? that would be sad $nick }
+on *:TEXT:What is this?:#: { msg $chan $nick, this a IRC chat or channel is like a chat}
+on *:TEXT:thanks!:#: { msg $chan No problemo! $nick } 
+on *:TEXT:thanks:#: { msg $chan No problemo! $nick } 
+on *:TEXT:hi!:#: { msg $chan Hi $nick to Quantom chat! }
+on *:TEXT:hello!:#: { msg $chan Hi $nick to Quantom chat! }
+on *:TEXT:hello:#: { msg $chan Hi $nick to Quantom chat! }
+on *:TEXT:aloha!:#: { msg $chan Aloha $nick to Quantom chat! }
+on *:TEXT:aloha:#: { msg $chan Aloha $nick to Quantom chat! }
